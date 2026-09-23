@@ -2,10 +2,10 @@ const skills = [
   { name: "HTML", label: "</>", color: "oklch(0.62 0.2 40)" },
   { name: "CSS", label: "#", color: "oklch(0.58 0.17 250)" },
   { name: "JavaScript", label: "JS", color: "oklch(0.75 0.16 92)" },
-  { name: "React", label: "⚛", color: "oklch(0.7 0.13 220)" },
-  { name: "Node.js", label: "⬢", color: "oklch(0.62 0.16 145)" },
-  { name: "MySQL", label: "🗄", color: "oklch(0.6 0.11 230)" },
-  { name: "Python", label: "🐍", color: "oklch(0.65 0.14 240)" },
+  { name: "React", label: "( )", color: "oklch(0.7 0.13 220)" },
+  { name: "Node.js", label: "N", color: "oklch(0.62 0.16 145)" },
+  { name: "MySQL", label: "SQL", color: "oklch(0.6 0.11 230)" },
+  { name: "Python", label: "Py", color: "oklch(0.65 0.14 240)" },
 ];
 
 export function Skills() {

@@ -70,9 +70,9 @@ export function Hero() {
             alt="Charantej s"
             width={816}
             height={816}
-            className="avatar-glow size-56 rounded-full object-cover sm:size-72"
+            className="avatar-glow size-56 rounded-full object-cover sm:size-72 lg:mr-24"
           />
-          <p className="pointer-events-none absolute -right-2 bottom-4 hidden font-hand text-2xl leading-tight text-navy-foreground/80 lg:block">
+          <p className="pointer-events-none absolute right-0 bottom-10 hidden font-hand text-2xl leading-tight text-navy-foreground/80 lg:block">
             Code
             <br />
             Create
